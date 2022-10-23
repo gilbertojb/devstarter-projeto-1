@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+
+  color: #263238;
+  margin: 0px;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+#hero {
+  width: 570px;
+  margin: 40px auto;
+}
+
+#content {
+  margin-bottom: 40px;
+}
+
+#content p {
+  margin-bottom: 36px;
+}
+
+#hero img {
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  margin: 0;
+}
+
+span, a {
+  color: #26A9F9;
+}
+
+#footer {
+  border-top: 1px solid #E0E0E0;
+  width: 570px;
+  margin: 0px auto;
+  padding: 20px 0;
+}
+
+#footer a + a {
+  margin-left: 30px;
+}
+
+#whatsapp {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+}
